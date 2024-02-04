@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Asuna.png</file>
+        <file>image/logo.ico</file>
+        <file>image/off (2).png</file>
+        <file>image/on (2).png</file>
+    </qresource>
+</RCC>
